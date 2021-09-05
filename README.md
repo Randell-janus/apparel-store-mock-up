@@ -1,6 +1,7 @@
 # Mock-up Apparel Store
 
 Shopping Cart implementation with **React** and **Firebase**
+
 - https://apparel-store-mock-up.vercel.app/
 
 ## Technologies Used
