@@ -33,3 +33,7 @@ Shopping Cart implementation with **React** and **Firebase**
   - ![](https://github.com/Randell-janus/apparel-store-mock-up/blob/master/public/web%20app%20snapshots/account.JPG)
 - Mobile view
   - ![](https://github.com/Randell-janus/apparel-store-mock-up/blob/master/public/web%20app%20snapshots/mobile-view.JPG)
+
+## Attribution
+All icons, logos, and graphics used in the app are made by [Freepik](https://www.freepik.com/) from [www.flaticon.com](https://www.flaticon.com/)
+
